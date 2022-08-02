@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0zlix1yy+0PhkGq4Z1yOdh93ljm/jwtSN2nt9rHIgBccXC4SS9rgQjmofOh6l4wY+HPgzmNySTsxaoKMEFKWg==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Angular101\\Asp.net_Core_Angular\\HealthCheck\\HealthCheckAPI\\HealthCheckAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deepak.Nangia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
