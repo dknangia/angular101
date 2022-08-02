@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HealthCheck
+build_property.ProjectDir = C:\code\Angular101\Asp.net_Core_Angular\HealthCheck\HealthCheck\
